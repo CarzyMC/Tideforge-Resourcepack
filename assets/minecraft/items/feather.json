@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "range_dispatch",
+    "property": "custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "model",
+      "model": "item/feather"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "model",
+          "model": "item/misc/wavestep"
+        },
+        "threshold": 1
+      }
+    ]
+  }
+}

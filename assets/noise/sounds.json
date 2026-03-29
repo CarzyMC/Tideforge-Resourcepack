@@ -1,0 +1,11 @@
+{
+"music.spawn": {"sounds":["noise:spawn"]},
+"music.spawn_old": {"sounds":["noise:spawn_old"]},
+"music.jungle": {"sounds":["noise:jungle"]},
+"music.tideforge": {"sounds":["noise:tideforge"]},
+"music.cave": {"sounds":["noise:cave"]},
+"music.magic": {"sounds":["noise:magic"]},
+"music.volcano": {"sounds":["noise:volcano"]},
+"music.volcanobutbetter": {"sounds":["noise:notarickroll"]},
+"sound.goose_honk": {"sounds":["noise:goose_honk"]}
+}

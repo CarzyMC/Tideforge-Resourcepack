@@ -1,0 +1,74 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:a/hellskitchenwaterphonesoundeffec.png",
+            "ascent": 12,
+            "height": 16,
+            "chars": ["󎂊"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:a/white.png",
+            "ascent": 100,
+            "height": 250,
+            "chars": ["󎋐"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:a/afternoon_drift.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["󎷃"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:a/high_sun.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["󎷄"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:a/golden_tide.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["󎷅"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:a/dusk_current.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["󎷆"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:a/dawn_tide.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["󎷇"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:a/morning_current.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["󎷈"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:a/silent_tides.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["󎷉"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:a/midnight_depths.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": ["󎷊"]
+        }
+    ]
+}
