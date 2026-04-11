@@ -6,7 +6,6 @@
 "music.cave": {"sounds":["noise:cave"]},
 "music.magic": {"sounds":["noise:magic"]},
 "music.volcano": {"sounds":["noise:volcano"]},
-"music.volcano": {"sounds":["noise:volcano"]},
 "music.kbffa": {"sounds":["kbffa"]},
 "sound.goose_honk": {"sounds":["noise:goose_honk"]}
 }
