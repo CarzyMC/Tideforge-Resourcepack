@@ -9,6 +9,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:a/jevil.png",
+            "ascent": 32,
+            "height": 56,
+            "chars": ["🃏"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:a/white.png",
             "ascent": 100,
             "height": 250,
