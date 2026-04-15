@@ -10,8 +10,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:a/realjevil.png",
-            "ascent": 192,
-            "height": 336,
+            "ascent": 20,
+            "height": 40,
             "chars": ["🃏"]
         },
         {
