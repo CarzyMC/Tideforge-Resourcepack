@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:a/realjevil.png",
+            "file": "minecraft:a/jevilidle.png",
             "ascent": 192,
             "height": 336,
             "chars": ["🃏"]
