@@ -5,6 +5,7 @@
 "music.tideforge": {"sounds":["noise:tideforge"]},
 "music.cave": {"sounds":["noise:cave"]},
 "music.magic": {"sounds":["noise:magic"]},
+"music.chaos": {"sounds":["noise:jevil_out"]},
 "music.volcano": {"sounds":["noise:volcano"]},
 "music.kbffa": {"sounds":["noise:kbffa"]},
 "sound.goose_honk": {"sounds":["noise:goose_honk"]}
