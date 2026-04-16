@@ -5,7 +5,7 @@
     "index": 0,
     "fallback": {
       "type": "model",
-      "model": "item/misc/spades"
+      "model": "item/feather"
     },
     "entries": [
       {
@@ -14,13 +14,6 @@
           "model": "item/misc/wavestep"
         },
         "threshold": 1
-      },
-      {
-        "model": {
-          "type": "model",
-          "model": "item/misc/spades"
-        },
-        "threshold": 2
       }
     ]
   }
