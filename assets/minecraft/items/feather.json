@@ -11,7 +11,7 @@
       {
         "model": {
           "type": "model",
-          "model": "item/misc/spades"
+          "model": "item/misc/wavestep"
         },
         "threshold": 1
       },
