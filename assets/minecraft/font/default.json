@@ -16,7 +16,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/spades.png",
+            "file": "minecraft:item/misc/spades.png",
             "ascent": 20,
             "height": 20,
             "chars": ["♤"]
