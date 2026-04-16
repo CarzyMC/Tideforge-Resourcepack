@@ -5,7 +5,7 @@
     "index": 0,
     "fallback": {
       "type": "model",
-      "model": "item/feather"
+      "model": "item/misc/spades"
     },
     "entries": [
       {
