@@ -13,8 +13,8 @@
           "type": "model",
           "model": "item/misc/wavestep"
         },
-        "threshold": 1,
-    "entries": [
+        "threshold": 1
+      },
       {
         "model": {
           "type": "model",
