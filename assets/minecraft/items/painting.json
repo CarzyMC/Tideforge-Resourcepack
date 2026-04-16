@@ -5,13 +5,13 @@
     "index": 0,
     "fallback": {
       "type": "model",
-      "model": "item/misc/spades"
+      "model": "item/spades"
     },
     "entries": [
       {
         "model": {
           "type": "model",
-          "model": "item/misc/spades"
+          "model": "item/spades"
         },
         "threshold": 1
       }
