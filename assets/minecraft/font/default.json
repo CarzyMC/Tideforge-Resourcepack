@@ -17,9 +17,9 @@
         {
             "type": "bitmap",
             "file": "minecraft:a/jevilspitcarzy.png",
-            "ascent": 20,
-            "height": 40,
-            "chars": ["🗣"]
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
         },
         {
             "type": "bitmap",
