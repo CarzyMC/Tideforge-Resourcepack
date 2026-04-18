@@ -10,8 +10,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:a/smalljevil.png",
-            "ascent": 80,
-            "height": 160,
+            "ascent": 10,
+            "height": 10,
             "chars": ["󎂋"]
         },
         {
