@@ -16,6 +16,13 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:a/jevilspitcarzy.png",
+            "ascent": 80,
+            "height": 160,
+            "chars": ["🗣"]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:item/misc/spades.png",
             "ascent": 20,
             "height": 20,
